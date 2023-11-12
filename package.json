@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "stompjs": "^2.3.3",
+    "websocket": "^1.0.34"
+  }
+}
